@@ -1,3 +1,4 @@
+
 # dotnet-vaquinha-tests
 Projeto Base para Testes - .Net Core  
 
@@ -16,3 +17,7 @@ Projeto Base para Testes - .Net Core
 
 ## Slides
 [Slides em PDF](TesteNetCore.pdf)
+
+# crowdfundingDecolaDevAvanade2021
+Projeto criado para o bootcamp da Decola Dev Avanade 2021 da Digital Innovation One
+
